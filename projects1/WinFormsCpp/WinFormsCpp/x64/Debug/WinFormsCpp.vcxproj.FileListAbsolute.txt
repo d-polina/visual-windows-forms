@@ -1,0 +1,6 @@
+C:\Users\Grom\Documents\projects\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.vcxproj.AssemblyReference.cache
+C:\Users\Grom\Documents\projects\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.MyForm.resources
+C:\Users\Grom\Documents\projects\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.vcxproj.GenerateResource.cache
+C:\Users\Grom\Documents\projects1\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.vcxproj.AssemblyReference.cache
+C:\Users\Grom\Documents\projects1\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.MyForm.resources
+C:\Users\Grom\Documents\projects1\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.vcxproj.GenerateResource.cache
